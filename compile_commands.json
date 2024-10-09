@@ -1,0 +1,53 @@
+[{
+  "file": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Pila\\main.cpp",
+  "directory": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Pila",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Pila\\main.cpp -o C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Pila\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\18\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Pila\\NodoPila.hpp",
+  "directory": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Pila",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Pila\\NodoPila.hpp -o C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Pila\\NodoPila.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\18\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Pila\\Pila.hpp",
+  "directory": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Pila",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Pila\\Pila.hpp -o C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Pila\\Pila.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\18\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Pila\\NodoPila.cpp",
+  "directory": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Pila",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Pila\\NodoPila.cpp -o C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Pila\\NodoPila.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\18\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Pila\\Pila.cpp",
+  "directory": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Pila",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Pila\\Pila.cpp -o C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Pila\\Pila.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\18\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Ejemplo13\\Persona.hpp",
+  "directory": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Ejemplo13",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Ejemplo13\\Persona.hpp -o C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Ejemplo13\\Persona.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\18\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Ejemplo13\\Persona.cpp",
+  "directory": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Ejemplo13",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Ejemplo13\\Persona.cpp -o C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Ejemplo13\\Persona.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\18\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Ejemplo13\\main.cpp",
+  "directory": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Ejemplo13",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Ejemplo13\\main.cpp -o C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Ejemplo13\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\18\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Cola\\NodoCola.cpp",
+  "directory": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Cola",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Cola\\NodoCola.cpp -o C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Cola\\NodoCola.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\18\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Cola\\NodoCola.hpp",
+  "directory": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Cola",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Cola\\NodoCola.hpp -o C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Cola\\NodoCola.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\18\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Cola\\Cola.hpp",
+  "directory": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Cola",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Cola\\Cola.hpp -o C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Cola\\Cola.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\18\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Cola\\main.cpp",
+  "directory": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Cola",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Cola\\main.cpp -o C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Cola\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\18\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Cola\\Cola.cpp",
+  "directory": "C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Cola",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Cola\\Cola.cpp -o C:\\Users\\rssch\\OneDrive\\Documentos\\Sesion3\\Cola\\Cola.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\18\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
